@@ -1,7 +1,7 @@
 
 # Challenge for Backend Developer
 
-A customer needs to search in our product catalog (available in this <a href="">JSON</a>) and he wants to find products that match your food restrictions.
+A customer needs to search in our product catalog (available in this <a href="https://github.com/Folio-Wallet-Applications/folio-challenge/blob/main/result.json">JSON</a>) and he wants to find products that match your food restrictions.
 Based on this you will need to develop:
 
 - a simple API to search products in the .json available;
