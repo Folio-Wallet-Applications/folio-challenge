@@ -8,18 +8,25 @@ Based on this you will need to develop:
 - it should be possible to search for products by their specifications (one or more);
 - it must be possible to order the result by price (asc and desc);
 
-The test should be done in PHP, Python or NodeJS. We expect at the end of the test, outside the API running, the following items:
+The test should be done in Go, Python or NodeJS. We expect at the end of the test, outside the API running, the following items:
 
 - an explanation of what is needed to make your project work;
 - an explanation of how to perform the tests;
+- Well documented ReadMe
 
+Bonus
+You can also write some test cases
+
+## What we are looking for:
 Remember that at the time of the evaluation we will look at:
 
 - Code organization;
 - Object-Oriented Principles;
 - Unit tests
-- Maintenance;
+- Maintenance
+- Git Branching and PR
+- Documentation
 
-To send us your code, you must:
 
-Make a fork of this repository, and send us a pull-request.
+## Submission
+You can just submit a PR here, create a private repo for free on Github.
